@@ -7,8 +7,8 @@ from win32api import GetSystemMetrics
 # Coded using: Chrome Version 66.0.3359.117 (Official Build)
 # Supported Resolutions: 1920x1080,1280x800,1600x900,1366x768,1440x900
 
-# Please note that i only Tested this on my Display, i did not code this to support same resolutions on different aspect ratio's!
-# Its up to you to fork this project with more powerful features or more support!
+# Please note that i only Tested this on my Display, i did not code support for same resolutions on different aspect ratio's!
+# Its up to those who fork this project with to add more powerful features and support!
 
 CHROME_STAUTS = False
 MoniH = GetSystemMetrics(0)
